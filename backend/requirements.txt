@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+joblib
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+python-dotenv
+PyJWT
+pwdlib[argon2]
